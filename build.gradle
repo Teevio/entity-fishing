@@ -51,9 +51,9 @@ dependencies {
     testImplementation group: 'com.googlecode.json-simple', name: 'json-simple', version: '1.1.1'
 
     // GROBID
-    implementation group: 'org.grobid', name: 'grobid-core', version: '0.7.3'
-    implementation group: 'org.grobid', name: 'grobid-trainer', version: '0.7.3'
-    implementation group: 'org.grobid', name: 'grobid-ner', version: '0.7.3'
+    implementation group: 'org.grobid', name: 'grobid-core', version: '0.8.0'
+    implementation group: 'org.grobid', name: 'grobid-trainer', version: '0.8.0'
+    implementation group: 'org.grobid', name: 'grobid-ner', version: '0.8.0'
 
     implementation 'black.ninia:jep:4.0.2'
     implementation 'org.apache.opennlp:opennlp-tools:1.9.1'
